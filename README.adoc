@@ -1,0 +1,12 @@
+= Edge Tester
+
+Quick project to test performance of Edge Service.
+
+NOTE: This is just an internal work project.
+
+== Usage
+
+. Open `Tester` class
+. Set the `TOKEN` value
+. Run normally
+
